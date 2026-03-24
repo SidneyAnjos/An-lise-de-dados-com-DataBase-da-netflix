@@ -1,4 +1,5 @@
-# 🎬 Case de Projeto — Pipeline de Dados e Analytics de Filmes
+# 🎬 Case de Projeto — Pipeline de Dados e Analytics de Filmes 
+https://app.powerbi.com/groups/me/reports/1b58ac42-6c82-45d3-8295-f18efbee3d32/1b6399861a93aed20bdf?experience=power-bi
 
 ## 📌 Contexto
 
