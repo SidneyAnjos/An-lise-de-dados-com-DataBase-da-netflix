@@ -167,7 +167,7 @@ Métricas robustas (não triviais)
 Dashboard com storytelling
 
 💼 Conclusão
-
+<img width="1401" height="703" alt="Image" src="https://github.com/user-attachments/assets/ecc5bca2-c445-4729-8a83-d6c839821c06" />
 Este projeto demonstra a capacidade de:
 
 Construir pipelines de dados reais
